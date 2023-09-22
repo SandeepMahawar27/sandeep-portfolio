@@ -8,7 +8,7 @@ import IMG4 from '../../assets/final4.mp4'
 // import IMG6 from '../../assets/portfolio6.jpg'
 
 // const data = [
-//   {
+//   { 
 // id: 1,
 // image: IMG1,
 // title: 'Fitness Full Responsive Website',

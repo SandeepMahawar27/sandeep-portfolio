@@ -24,7 +24,7 @@
     border-radius: 1rem;
 }
 .project_item h3{
-    margin: 1.2rem 0 2rem;
+    margin: 1rem 0 2rem;
 }
 .project_item-cta{
     display: flex;
@@ -38,7 +38,7 @@
     grid-template-columns: 1fr 1fr;
     gap: 1.2rem;
    }
-}
+} 
 
 /* media queries for small devices */
 @media screen  and (max-width: 600px){
@@ -61,6 +61,10 @@
     }
     .project_item{ 
         width: 340px;
+    }
+    .project_item h3{
+        margin: 0.5rem;
+        font-size: 1rem;
     }
     .project_item-image{
         height: 55%;
